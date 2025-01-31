@@ -10,9 +10,6 @@ JavaScript
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/Kritika30032002/To-Do-List-Application.git
-Open the index.html file in your web browser to start using the application.
-
 ## Usage
 Add tasks with a simple click.
 Edit task names by double-clicking on them.
